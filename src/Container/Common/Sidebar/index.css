@@ -1,0 +1,25 @@
+.sidebarWrapper li {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.sidebarWrapper a.nav-link.d-flex.align-items-center {
+  padding: 10px !important;
+  border-radius: 9px;
+}
+
+.sidebarWrapper a.nav-link.d-flex.align-items-center:hover {
+  background-color: antiquewhite;
+  color: rgb(62, 58, 58);
+}
+
+.sidebarWrapper .sidebarlogo {
+  padding: 10px 10px 30px 10px;
+  border-bottom: 2px solid #d9d8d84a;
+  text-align: center;
+}
+
+.sidebarWrapper a.nav-link.d-flex.align-items-center.active {
+  background-color: #a1bdb3ab;
+  color: white !important;
+}

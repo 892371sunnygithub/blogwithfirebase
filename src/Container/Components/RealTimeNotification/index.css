@@ -1,0 +1,19 @@
+.realtimenotification {
+  position: relative;
+  padding-right: 30px;
+}
+
+.realtimenotification .notifylength {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+  color: white;
+  height: 22px;
+  width: 22px;
+  border-radius: 50%;
+  position: absolute;
+  top: -9px;
+  left: 8px;
+  cursor: pointer;
+}

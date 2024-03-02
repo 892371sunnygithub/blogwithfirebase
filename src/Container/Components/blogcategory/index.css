@@ -1,0 +1,5 @@
+@media (max-width: 576px) {
+  .blogcategory button.btn.btn-secondary {
+    width: 100% !important;
+  }
+}

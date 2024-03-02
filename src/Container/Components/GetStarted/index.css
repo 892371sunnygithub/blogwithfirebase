@@ -1,0 +1,14 @@
+.getstarted {
+  background-image: url("../../../assets/images/getstarted.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.getstarted .innerdata {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

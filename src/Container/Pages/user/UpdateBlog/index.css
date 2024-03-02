@@ -1,0 +1,30 @@
+.updateblog .updateimage {
+  height: 100px !important;
+  width: 200px !important;
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+@media (max-width: 576px) {
+  .updateblog h4 {
+    text-align: left !important;
+  }
+
+  .updateblog .updateimage {
+    width: 100% !important;
+    height: 200px !important;
+  }
+
+  .updateblog button.btn.btn-secondary {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .updateblog a.btn.btn-danger {
+    width: 100%;
+    margin-left: 0 !important;
+  }
+}

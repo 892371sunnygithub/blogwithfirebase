@@ -1,0 +1,14 @@
+.footerdata p {
+  margin-bottom: 0;
+  padding: 20px 0;
+  background-color: gray;
+  color: white;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+@media (max-width: 576px) {
+  .footerdata p {
+    padding: 7px 0;
+  }
+}

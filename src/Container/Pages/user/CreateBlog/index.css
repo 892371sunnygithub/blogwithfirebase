@@ -1,0 +1,14 @@
+.createblog {
+  background-image: url("../../../../assets/images/createblog.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 10px;
+}
+.createblog .blogimage {
+  height: 100px !important;
+  width: 200px !important;
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 10px;
+}

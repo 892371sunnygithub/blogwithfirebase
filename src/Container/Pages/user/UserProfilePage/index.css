@@ -1,0 +1,21 @@
+.profileWrapper {
+  padding: 20px;
+}
+
+.profileWrapper .leftdata img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.profileWrapper .leftdata span {
+  color: #757575;
+}
+
+.profileWrapper .profileform {
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 16px -15px 11px 5px #e9e5e5;
+}

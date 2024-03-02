@@ -1,0 +1,36 @@
+.testimonial {
+  background-color: aliceblue;
+  padding: 30px 0;
+}
+
+.testimonial .commaimage {
+  height: 50px !important;
+}
+
+.testimonial .testimonialcard {
+  padding: 10px;
+}
+
+.testimonial .textdata h6 {
+  letter-spacing: 2px;
+  font-family: system-ui;
+  margin-bottom: 0;
+  margin-top: 10px;
+  text-transform: capitalize;
+}
+
+.testimonial .slick-slide {
+  padding: 5px;
+}
+
+.testimonial .heading {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-family: serif;
+  font-weight: 900;
+}
+.testimonial .clientimage {
+  height: 250px !important;
+  width: 100% !important;
+}

@@ -1,0 +1,16 @@
+.bloglisting {
+  background-image: url("../../../../assets/images/beauty.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.bloglisting .innerdata {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bloglisting .usernamecolor {
+  color: rgb(255, 251, 127);
+}

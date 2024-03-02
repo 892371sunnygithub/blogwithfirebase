@@ -1,0 +1,14 @@
+.userlisting .tabledata {
+  overflow-x: auto !important;
+  white-space: nowrap !important;
+}
+
+.userlisting .table_image {
+  height: 40px !important;
+  width: 40px !important;
+  border-radius: 50%;
+}
+
+.userlisting table {
+  vertical-align: middle;
+}

@@ -1,0 +1,27 @@
+.dashCounterWrapper .counterCard {
+  border: 2px solid #e0dede;
+  background-color: #e7edf48a;
+  border-radius: 9px;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.dashCounterWrapper .cardRightData span {
+  height: 50px;
+  display: flex;
+  width: 50px;
+  border-radius: 50%;
+  background-color: #ee9f9f;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 22px;
+}
+
+@media (max-width: 576px) {
+  .dashCounterWrapper h4 {
+    text-align: center;
+  }
+}

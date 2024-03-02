@@ -1,0 +1,46 @@
+.loginWrapper .LoginImageSection {
+  height: 100vh !important;
+}
+
+.password_field {
+  position: relative;
+}
+
+.eye_icon {
+  position: absolute;
+  top: 36px;
+  right: 7px;
+  cursor: pointer;
+}
+
+.loginWrapper h3 {
+  border-left: 4px solid aquamarine;
+  padding-left: 10px;
+}
+
+.loginWrapper .logo_data {
+  position: absolute;
+  top: 5px;
+  left: 18px;
+}
+
+.loginWrapper .logo_data .weblogologin {
+  height: 63px !important;
+  width: 268px !important;
+}
+
+@media (max-width: 767px) {
+  .loginWrapper {
+    margin-bottom: 20px;
+  }
+  .loginWrapper .LoginImageSection {
+    height: 100% !important;
+  }
+  .loginWrapper .logo_data .weblogologin {
+    width: 100% !important;
+  }
+  .loginWrapper h5 {
+    margin-top: 20px;
+    text-align: center;
+  }
+}
